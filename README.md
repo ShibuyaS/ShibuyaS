@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShibuyaS
-- 👀 I’m interested in Ham Radio
+- 👀 I’m interested in Ham Radio, TJBot, Raspberry Pi especially pico..
 - 🌱 I’m currently learning various things
 
 <!---
